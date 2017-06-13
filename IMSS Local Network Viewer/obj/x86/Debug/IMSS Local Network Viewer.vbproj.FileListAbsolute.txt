@@ -1,0 +1,11 @@
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\bin\Debug\IMSS Local Network Viewer.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\bin\Debug\IMSS Local Network Viewer.pdb
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\bin\Debug\IMSS Local Network Viewer.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\obj\x86\Debug\IMSS_Local_Network_Viewer.MainWindow.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\obj\x86\Debug\IMSS_Local_Network_Viewer.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\obj\x86\Debug\IMSS Local Network Viewer.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\obj\x86\Debug\IMSS Local Network Viewer.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Local Network Viewer\IMSS Local Network Viewer\obj\x86\Debug\IMSS Local Network Viewer.pdb
